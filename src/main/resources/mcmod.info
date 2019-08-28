@@ -1,0 +1,16 @@
+[
+{
+  "modid": "massiveexpansion",
+  "name": "Massive Expansion",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["e3ndr/EnderVampire"],
+  "credits": "The Forge and FML guys, for teaching me java by accident.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
